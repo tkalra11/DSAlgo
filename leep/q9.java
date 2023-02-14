@@ -8,5 +8,6 @@ class q9 {
         }
         System.out.println("Sum : "+sum);
         System.out.println("Average : "+(sum/10));
+        sc.close();
     }
 }

@@ -6,5 +6,6 @@ class q7 {
         int b=sc.nextInt();
         int c=sc.nextInt();
         System.out.println(a>b ?(a>c?a:c) :(b>c?b:c));
+        sc.close();
     }
 }

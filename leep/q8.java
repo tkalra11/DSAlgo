@@ -18,5 +18,6 @@ class q8 {
             break;
             default:System.out.println("Consonant");
         }       
+        sc.close();
     }
 }
